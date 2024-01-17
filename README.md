@@ -1,3 +1,3 @@
 ### My Resume 📝
 
-[Abdulloh.pdf](https://github.com/AbdullohBahromjonov/Resume/files/13930526/Abdulloh.pdf)
+[Abdulloh.pdf](https://github.com/AbdullohBahromjonov/Resume/blob/main/Abdulloh.pdf)
